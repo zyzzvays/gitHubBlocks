@@ -1,0 +1,47 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    height: 70px;
+    margin-top: 20px;
+}
+
+.topContainer{
+    background-color: darkgoldenrod;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.centerContainer{
+    background-color: silver;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.bottomContainer{
+    background-color: red;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.main{
+    width: 750px;
+    margin: 0px auto;
+}
+
+.footer{
+    text-align: center;
+}
+
+img{
+    height: 180px;
+}
